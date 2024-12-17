@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/parthib53.png" width="150" alt="Parthib Saha">
+</p>
+
 <h1 align="center">Hi 👋, I'm Parthib Saha</h1>
 <h3 align="center">A Competitive Programmer | Aspiring Developer | ML Enthusiast</h3>
 
