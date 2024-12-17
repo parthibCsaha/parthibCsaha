@@ -1,52 +1,82 @@
 <h1 align="center">Hi 👋, I'm Parthib Saha</h1>
-<h3 align="center">A Competitive Programmer | Aspiring Developer | ML,AI Enthusiast</h3>
+<h3 align="center">🚀 Competitive Programmer | Aspiring Developer | ML Enthusiast 🚀</h3>
 
 ---
 
-### 👨‍💻 **About Me**
-
-- 🎓 **Fresher** passionate about problem-solving and coding.  
-- 🚀 Solved **2000+ problems** across multiple platforms.  
-- 🌱 Currently learning **Java Spring Boot**, **ML**, **DL**, **NLP**, and **Generative AI**.  
-- 💡 Aspiring to bridge the gap between **AI** and **software development**.  
+<p align="center">
+  💻 Solved <b>2000+ problems</b> across competitive programming platforms.<br>
+  🌱 Currently learning <b>Java Spring Boot</b>, <b>ML</b>, <b>DL</b>, <b>NLP</b>, and <b>Generative AI</b>.<br>
+  🚀 Aspiring to bridge the gap between <b>AI</b> and <b>Software Development</b>.
+</p>
 
 ---
 
 ### 🏆 **Competitive Programming Profiles**
-- [🔗 Codeforces](https://codeforces.com/profile/_LP_)  
-- [🔗 CodeChef](https://www.codechef.com/users/parthib53)  
-- [🔗 LeetCode](https://leetcode.com/u/parthibsahaprattus/)  
-- [🔗 AtCoder](https://atcoder.jp/users/parthib53)
+<p align="center">
+  <a href="https://codeforces.com/profile/_LP_">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/parthib53">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://leetcode.com/u/parthibsahaprattus/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://atcoder.jp/users/parthib53">
+    <img src="https://img.shields.io/badge/AtCoder-5F6C9F?style=flat&logo=atcoder&logoColor=white" alt="AtCoder">
+  </a>
+</p>
 
 ---
 
 ### 🛠️ **Skills**
-- **Programming Languages**:  
-   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
 
-- **Frameworks & Tools**:  
-   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+#### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+</p>
 
-- **Artificial Intelligence**:  
-   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=pytorch&logoColor=white)
-   ![NLP](https://img.shields.io/badge/NLP-FF5733?style=flat)  
-   ![Generative AI](https://img.shields.io/badge/Generative%20AI-800080?style=flat)
+#### 🚀 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>
+
+#### 🚀 Artificial Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-FF5733?style=flat">
+  <img src="https://img.shields.io/badge/Generative%20AI-800080?style=flat">
+</p>
 
 ---
 
 ### 📊 **GitHub Stats**
-![Parthib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthib53&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthib53&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=parthib53&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthib53&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthib53&layout=compact&theme=radical" alt="Top Languages">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=parthib53&theme=radical" alt="GitHub Streak">
+</p>
 
 ---
 
 ### 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthib-saha-32b547260/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/parthib-saha-32b547260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://codeforces.com/profile/_LP_">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-⭐️ **Feel free to reach out for collaborations or mentorship!** 🚀  
+⭐️ **Feel free to reach out for collaborations, mentorship, or just a chat!** 🚀
