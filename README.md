@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthib Saha</h1>
-<h3 align="center">A Competitive Programmer | Aspiring Developer | ML Enthusiast</h3>
+<h3 align="center">A Competitive Programmer | Aspiring Developer | AL Enthusiast</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 **Fresher** passionate about problem-solving and coding.  
 - 🚀 Solved **2000+ problems** across multiple platforms.  
-- 🌱 Currently learning **Java Spring Boot**, **ML**, **DL**, **NLP**, and **Generative AI**.  
+- 🌱 Currently learning **Java Spring Boot**, **AI**.  
 - 💡 Aspiring to bridge the gap between **AI** and **software development**.  
 
 ---
