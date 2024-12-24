@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthib Saha</h1>
-<h3 align="center">🚀 Competitive Programmer | Aspiring Developer | ML,AI Enthusiast 🚀</h3>
+<h3 align="center">🚀 Competitive Programmer | Aspiring Developer | ML/AI Enthusiast 🚀</h3>
 
 ---
 
