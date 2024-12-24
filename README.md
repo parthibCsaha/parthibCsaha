@@ -5,7 +5,6 @@
 
 <p align="center">
   💻 Solved <b>2000+ problems</b> across competitive programming platforms.<br>
-  🌱 Currently learning <b>Java Spring Boot</b>, <b>ML</b>, <b>NLP</b>, and <b>Generative AI</b>.<br>
   🚀 Aspiring to bridge the gap between <b>AI</b> and <b>Software Development</b>.
 </p>
 
