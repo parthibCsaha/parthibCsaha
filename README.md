@@ -42,6 +42,7 @@
 #### 🚀 Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 </p>
 
 #### 🚀 Artificial Intelligence
