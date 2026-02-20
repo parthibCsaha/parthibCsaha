@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  💻 Solved <b>2500+ problems</b> across competitive programming platforms.<br>
+  💻 Solved <b>3000+ problems</b> across competitive programming platforms.<br>
   🚀 Aspiring to bridge the gap between <b>AI</b> and <b>Software Development</b>.
 </p>
 
