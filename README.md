@@ -88,6 +88,10 @@
 ### AI Tools and Concepts
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -97,13 +101,40 @@
 
 ### Core Engineering Concepts
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-0284C7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge" />
+  <!-- Architecture -->
+  <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multithreading-115E59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event%20Driven-7C3AED?style=for-the-badge" />
+
+  <!-- API -->
+  <img src="https://img.shields.io/badge/REST%20API-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-334155?style=for-the-badge" />
+
+  <!-- Auth & Security -->
+  <img src="https://img.shields.io/badge/JWT-991B1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-64748B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSRF-7F1D1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XSS-450A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Injection-DC2626?style=for-the-badge" />
+
+  <!-- Performance -->
+  <img src="https://img.shields.io/badge/Caching-065F46?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rate%20Limiting-134E4A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Async%20Processing-10B981?style=for-the-badge" />
+
+  <!-- Concurrency -->
+  <img src="https://img.shields.io/badge/Multithreading-115E59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Message%20Queues-6D28D9?style=for-the-badge" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database%20Design-7C2D12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Indexing-9A3412?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transactions-C2410C?style=for-the-badge" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logging-0369A1?style=for-the-badge" />
 </p>
 
 ---
