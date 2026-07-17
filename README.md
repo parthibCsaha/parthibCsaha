@@ -62,7 +62,7 @@ Outside of work, I've solved **3000+ DSA problems** across competitive programmi
 
 ### Frameworks and Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,django,docker,redis,postgres,mysql,git,github,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,docker,redis,postgres,mysql,git,github,visualstudio,postman,vscode,idea" />
 </p>
 
 ### Databases and Storage
@@ -75,6 +75,7 @@ Outside of work, I've solved **3000+ DSA problems** across competitive programmi
 
 ### Developer Tools
 <p>
+  <img src="https://skillicons.dev/icons?i=visualstudio" /><img src="https://skillicons.dev/icons?i=visualstudio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
