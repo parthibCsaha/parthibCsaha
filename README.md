@@ -1,16 +1,16 @@
 # Hi there, I'm Parthib Saha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Parthib%20Saha&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Competitive%20Programmer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=56" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Parthib%20Saha&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Backend%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=56" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=3000%2B+Problems+Solved+Across+CP+Platforms;Codeforces+Specialist+%7C+CodeChef+4*+%7C+LeetCode+Top+4%25;I+build+scalable+backends+and+AI-powered+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=ASP.NET+Core+Backend+Developer;3000%2B+Problems+Solved+Across+CP+Platforms;Codeforces+Specialist+%7C+CodeChef+4*+%7C+LeetCode+Top+4%25;I+build+scalable+backends+and+AI-powered+products" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Developer-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Building-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-334155?style=for-the-badge" />
 </p>
 
@@ -21,13 +21,26 @@
 
 ---
 
-## Career Snapshot
+## About Me
 
-- Solved **3000+ DSA problems** across Codeforces, LeetCode, AtCoder, CodeChef, and more.
-- Strong in **algorithms, data structures, backend architecture, and API design**.
-- Built production-style projects in **Java Spring Boot**, **ASP.NET Core**, and **React**.
-- Focused on **LLM/RAG systems**, secure backend engineering, and performance-oriented development.
-- Open to **Software Engineer / Backend Engineer / AI Engineer** opportunities.
+I work as an **ASP.NET Core backend developer**, building and maintaining production-grade services for an e-commerce platform — covering API design, EF Core / Dapper data access, Clean Architecture, and performance-focused SQL work (query optimization, stored procedures, profiling with EXPLAIN ANALYZE / benchmarking tools).
+
+Outside of work, I've solved **3000+ DSA problems** across competitive programming platforms and enjoy going deep on **concurrency, system design, and RAG/LLM-based systems**.
+
+- 🔭 Currently working on: production backend systems in **ASP.NET Core**, and personal projects in **RAG/LLM tooling**
+- 🌱 Currently sharpening: performance engineering, concurrency, and scalable architecture patterns
+- 💬 Ask me about: backend architecture, SQL/query optimization, API design, or competitive programming
+- ⚡ Fun fact: I've written both incremental and SP-based aggregation logic for the same problem — and the SP always won on correctness *and* speed
+
+---
+
+## Experience
+
+**Backend Developer (ASP.NET Core)** 
+`[May, 2026] – Present`
+- Building and maintaining backend services for a production e-commerce platform using ASP.NET Core, EF Core, MediatR, and Dapper (Clean Architecture, DB-first MySQL workflow)
+- Optimizing complex read paths via stored procedures and Dapper, with measured performance improvements validated through profiling rather than assumptions
+- Working across a multi-developer DB-first migration workflow, coordinating schema changes with a team
 
 ---
 
@@ -79,12 +92,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 ### AI Tools and Concepts
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
@@ -92,49 +99,28 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-0284C7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### Core Engineering Concepts
 <p>
-  <!-- Architecture -->
   <img src="https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Event%20Driven-7C3AED?style=for-the-badge" />
-
-  <!-- API -->
   <img src="https://img.shields.io/badge/REST%20API-1E293B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Design-334155?style=for-the-badge" />
-
-  <!-- Auth & Security -->
   <img src="https://img.shields.io/badge/JWT-991B1B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RBAC-64748B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSRF-7F1D1D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XSS-450A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20Injection-DC2626?style=for-the-badge" />
-
-  <!-- Performance -->
   <img src="https://img.shields.io/badge/Caching-065F46?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rate%20Limiting-134E4A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Async%20Processing-10B981?style=for-the-badge" />
-
-  <!-- Concurrency -->
   <img src="https://img.shields.io/badge/Multithreading-115E59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Message%20Queues-6D28D9?style=for-the-badge" />
-
-  <!-- Database -->
   <img src="https://img.shields.io/badge/Database%20Design-7C2D12?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Indexing-9A3412?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Transactions-C2410C?style=for-the-badge" />
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-0284C7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logging-0369A1?style=for-the-badge" />
 </p>
 
 ---
