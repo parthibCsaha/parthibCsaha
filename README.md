@@ -34,16 +34,6 @@ Outside of work, I've solved **3000+ DSA problems** across competitive programmi
 
 ---
 
-## Experience
-
-**Backend Developer (ASP.NET Core)** 
-`[May, 2026] – Present`
-- Building and maintaining backend services for a production e-commerce platform using ASP.NET Core, EF Core, MediatR, and Dapper (Clean Architecture, DB-first MySQL workflow)
-- Optimizing complex read paths via stored procedures and Dapper, with measured performance improvements validated through profiling rather than assumptions
-- Working across a multi-developer DB-first migration workflow, coordinating schema changes with a team
-
----
-
 ## Competitive Programming Profiles
 
 <p align="center">
