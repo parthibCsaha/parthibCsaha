@@ -30,8 +30,6 @@ Outside of work, I've solved **3000+ DSA problems** across competitive programmi
 - 🔭 Currently working on: production backend systems in **ASP.NET Core**, and personal projects in **RAG/LLM tooling**
 - 🌱 Currently sharpening: performance engineering, concurrency, and scalable architecture patterns
 - 💬 Ask me about: backend architecture, SQL/query optimization, API design, or competitive programming
-- ⚡ Fun fact: I've written both incremental and SP-based aggregation logic for the same problem — and the SP always won on correctness *and* speed
-
 ---
 
 ## Competitive Programming Profiles
